@@ -1,8 +1,6 @@
 # Cloud_Computing_A067_SDS
 
 
-# Cloud_Computing_SDS
-
 Welcome to the Cloud_Computing_SDS repository! This repository contains my assignments for the Cloud Computing course as part of my MSc in Statistics and Data Science at NSoMASA, NMIMS Mumbai.
 
 ## About the Course
